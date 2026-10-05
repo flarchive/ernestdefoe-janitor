@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of ernestdefoe/janitor.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/janitor) or the [upstream repository](https://github.com/ernestdefoe/janitor).
 
-**0** versions archived · Latest: [`v1.3.2`](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.3.2) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`v1.3.2`](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.3.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.1.0) |
+| `v1.2.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.2.0) |
+| `v1.3.0` | 2026-07-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.3.0) |
+| `v1.3.1` | 2026-07-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.3.1) |
+| `v1.3.2` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-janitor/tree/archive/v1.3.2) |
 
 Catalog entry: [packages/ernestdefoe-janitor.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-janitor.json)
 
